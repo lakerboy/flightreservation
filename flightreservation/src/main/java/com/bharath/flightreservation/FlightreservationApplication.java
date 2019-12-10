@@ -10,7 +10,7 @@ public class FlightreservationApplication {//extends SpringBootServletInitialize
 	
 //	@Override
 //	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-//		return builder.sources(FlightreservationApplication.class);
+//		return builder.sources(FlightreservationApplication.class); 
 //	}
 
 	public static void main(String[] args) {
